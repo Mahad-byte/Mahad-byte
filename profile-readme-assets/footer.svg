@@ -1,0 +1,14 @@
+<svg width="850" height="120" viewBox="0 0 850 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradf" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#009688"/>
+      <stop offset="100%" stop-color="#00B4D8"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#gradf)" d="M0,50 Q212.5,15 425,45 T850,40 L850,120 L0,120 Z">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0,50 Q212.5,15 425,45 T850,40 L850,120 L0,120 Z;
+              M0,35 Q212.5,60 425,30 T850,55 L850,120 L0,120 Z;
+              M0,50 Q212.5,15 425,45 T850,40 L850,120 L0,120 Z"/>
+  </path>
+</svg>

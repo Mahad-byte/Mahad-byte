@@ -1,0 +1,20 @@
+<svg width="850" height="180" viewBox="0 0 850 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#009688"/>
+      <stop offset="100%" stop-color="#00B4D8"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#grad)" d="M0,0 L850,0 L850,105 Q637.5,145 425,120 T0,135 Z">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0,0 L850,0 L850,105 Q637.5,145 425,120 T0,135 Z;
+              M0,0 L850,0 L850,125 Q637.5,110 425,140 T0,110 Z;
+              M0,0 L850,0 L850,105 Q637.5,145 425,120 T0,135 Z"/>
+  </path>
+  <text x="425" y="100" text-anchor="middle"
+        font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="42" font-weight="700" fill="#ffffff">
+    Hi, I'm Your Name 👋
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
+</svg>
