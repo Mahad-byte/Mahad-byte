@@ -14,7 +14,7 @@
   <text x="425" y="100" text-anchor="middle"
         font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif"
         font-size="42" font-weight="700" fill="#ffffff">
-    Hi, I'm Your Name 👋
+    Hi, I'm Mahad
     <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
   </text>
 </svg>
