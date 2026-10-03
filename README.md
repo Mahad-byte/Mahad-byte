@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahad-byte&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahad-byte&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ## 💬 Motto
